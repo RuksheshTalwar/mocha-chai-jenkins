@@ -1,0 +1,13 @@
+node_modules/
+coverage/
+cartridges/app_storefront_base/cartridge/static/*
+cartridges/app_custom_mnssfra/cartridge/static/default/css/*
+cartridges/app_custom_mnssfra/cartridge/static/default/js/*
+cartridges/int_klarna/cartridge/static/*
+npm-debug.log
+cartridges.zip
+*.zip
+.idea/
+.DS_Store
+dw.json
+package-lock.json
